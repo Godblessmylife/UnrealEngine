@@ -1,10 +1,7 @@
-# 3D-Web-Game
-
-Welcome to the 3D-Web-Game project! This project utilizes modern web technologies to create an immersive 3D web experience. 
-
-The goal is to develop a third-person controller game with animations, physics, and movement using React Three Fiber, HTML, CSS, and JavaScript. Yarn is used for package management.
+# 3D-Web-Game-CrossFi
 
 I am creating this project to understand Three.js and React Three Fiber.
+Demo
 
 ## Project Overview
 
