@@ -100,14 +100,4 @@ Make sure you have the following installed:
 
 #### NOTE : If Character Not Visible Or Map Stuck Please Reload Page It Will Probably Fix It
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## Acknowledgements
-
-Special thanks to the creators of the 3D models used in this project and Also [@Wawa Sensei](https://github.com/wass08) 
-
----
-
 Thank you for checking out the 3D-Web-Game project. We hope you find it informative and engaging!
